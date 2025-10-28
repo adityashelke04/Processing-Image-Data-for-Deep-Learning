@@ -23,3 +23,5 @@ This Jupyter notebook covers essential image processing operations commonly used
 
 ## Installation
 
+pip install matplotlib pillow opencv-python numpy
+
