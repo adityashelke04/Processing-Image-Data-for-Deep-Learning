@@ -1,6 +1,4 @@
 # Processing Image Data for Deep Learning
-![Initial Image](https://github.com/adityashelke04/Processing-Image-Data-for-Deep-Learning/blob/b056a00ad33835a2c72455006d67b6456e37e173/images/photo.jpg)
-![Final Image](https://github.com/adityashelke04/Processing-Image-Data-for-Deep-Learning/blob/1110236f0a54543a9372e01d264787eda04b97b5/images/photo_grayscale_image.jpg)
 A comprehensive tutorial notebook demonstrating fundamental image preprocessing techniques for deep learning applications using popular Python libraries.
 
 ## Project Overview
