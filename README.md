@@ -43,4 +43,6 @@ pip install matplotlib pillow opencv-python numpy
 
 ## Usage
 
+Run the Jupyter notebook
+jupyter notebook Processing_Image_Data_for_Deep_Learning.ipynb
 
