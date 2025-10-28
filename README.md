@@ -25,3 +25,22 @@ This Jupyter notebook covers essential image processing operations commonly used
 
 pip install matplotlib pillow opencv-python numpy
 
+
+## Features
+
+1. **Image Loading and Display**
+    - Load images using `matplotlib.image`
+    - Convert images to NumPy arrays
+    - Display images using `matplotlib.pyplot`
+
+2. **Image Resizing**
+    - Resize images to specific dimensions (e.g., 200x200)
+    - Save resized images to disk
+
+3. **Color Space Conversion**
+    - Convert RGB images to Grayscale
+    - Reduce image size and computational needs
+
+## Usage
+
+
