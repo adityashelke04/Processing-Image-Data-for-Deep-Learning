@@ -66,7 +66,7 @@ jupyter notebook Processing_Image_Data_for_Deep_Learning.ipynb
 ## Colab Compatibility
 
 - Uses `wget` for image download
-- Uses `cv2_imshow` (not `cv2.imshow`) for image display
+- Uses `cv2_imshow` (not `cv2.imshow`) for image display from google.colab.patches
 
 
 ## Applications
